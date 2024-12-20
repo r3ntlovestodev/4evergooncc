@@ -1,0 +1,40 @@
+{
+    "xf4": {
+        "Binds": {
+            "Keybind": "RButton",
+            "Pause": "Esc",
+            "Reload": "R"
+        },
+        "Color": {
+            "Saturation": 10
+        },
+        "Bezier": {
+            "LinearCurveX": 0.150,
+            "LinearCurveY": 0.100
+        },
+        "Easing": {
+            "SmoothnessX": 70,
+            "SmoothnessY": 70,
+            "SmoothingReplicatorX": 5,
+            "SmoothingReplicatorY": 5,
+            "SmoothingDividerX": 350,
+            "SmoothingDividerY": 150,
+            "Prediction": {
+                "Enabled": false,
+                "Mode": "Ideal",
+                "PredictionX": 12,
+                "PredictionY": 12
+            }
+        },
+        "Misc": {
+            "AimbotUpdateTick": 600,
+            "AimbotUpdateMS": 1000,
+            "CameraToGunFOV": 85,
+            "FlickTime" : 1
+        },
+        "FOV": {
+            "FOVOffsetX": 5,
+            "FOVOffsetY": 5
+        }
+    }
+}
