@@ -19,7 +19,7 @@ CoordMode, Pixel, screen
 PID := DllCall("GetCurrentProcessId")
 Process, Priority, %PID%, High
 DllCall("QueryPerformanceFrequency", "Int64*", Update)
-AimbotKey := config.Tsurugi.Binds.Keybind
+AimbotKey := config.xf4.Binds.Keybind
 
 ; aimbot
 
